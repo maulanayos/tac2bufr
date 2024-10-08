@@ -1,0 +1,5 @@
+[project]
+name = "tac2bufr"
+version = "1.1.0"
+description = "BUFR converter for INAGTS Project"
+authors = [{ name = "Imam Maulana Yosa", email = "imamaulanayos@gmail.com" }]

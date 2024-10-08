@@ -1,0 +1,3 @@
+csv2bufr
+git+https://github.com/wmo-im/synop2bufr.git
+-e ../shared-tools
