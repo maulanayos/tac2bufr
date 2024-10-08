@@ -3,16 +3,8 @@ channels:
 - conda-forge
 dependencies:
 - python=3.11
-- minio
-- pydantic
-- pydantic-settings
-- python-confluent-kafka
 - git
 - pip
 - eccodes
-- asyncpg
-- aiokafka
 - pip:
   - csv2bufr
-  - git+https://github.com/wmo-im/synop2bufr.git
-  - -e ../shared-tools
